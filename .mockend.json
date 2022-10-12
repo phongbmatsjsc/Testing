@@ -1,6 +1,6 @@
 {
   "DataPoint": {
-    "value": {"float" :{}}
+    "value": {"float" :{"min":100, "max":500}},
     "quality": {"boolean":{}}
   }
 }
